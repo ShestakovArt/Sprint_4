@@ -26,7 +26,7 @@ public class AccountTest {
                 { "123Морти", false},
                 { "Rick 1951", false},
                 { "3,1415 926535", false},
-                { " Rick Sanchez ", true},
+                { " Rick Sanchez ", false},
                 { "Хьюберт Блейн Вольфшлегельштайнхаузенбергедорф-старший ", false},
                 { "Ая", false},
                 { "", false},
